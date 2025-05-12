@@ -1,0 +1,8 @@
+reset = 1, d=0, q=0 
+reset = 0, d=0, q=0 
+reset = 0, d=1, q=0 
+reset = 0, d=0, q=1 
+reset = 1, d=0, q=0 
+reset = 1, d=1, q=0 
+reset = 0, d=1, q=0 
+reset = 0, d=0, q=1 

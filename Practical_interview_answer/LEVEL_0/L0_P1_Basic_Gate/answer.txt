@@ -1,0 +1,5 @@
+in_a	in_b	not	and	nand	or	nor	xor	xnor
+   0	   0	  1	  0	   1	 0	  1	  0	   1
+   1	   0	  0	  0	   1	 1	  0	  1	   0
+   0	   1	  1	  0	   1	 1	  0	  1	   0
+   1	   1	  0	  1	   0	 1	  0	  0	   1
