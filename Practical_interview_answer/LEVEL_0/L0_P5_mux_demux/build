@@ -1,5 +1,0 @@
-xvlog ./design/mux_demux.v ./testbench/testbench.v 
-#xelab testbench -s testbench
-#xsim testbench -R
-xelab testbench --debug wave
-xsim testbench -gui -wdb sim_tb.wdb -tclbatch sgdh_sim.tcl & 

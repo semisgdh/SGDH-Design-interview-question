@@ -1,1 +1,0 @@
-rm -rf *.log *.pb *.wdb* *.jou xsim.dir .Xil project_sgdh_schematic *.sch vivado_*.zip *.str
